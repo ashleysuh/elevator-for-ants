@@ -8,9 +8,12 @@ Design and implement a finite state machine which controls the operation of an e
 
 The finite state machine (FSM) has 1 input:
 1. enable (enables operation of elevator)
+
 The FSM has three outputs:
 1. door (if door == 0, door is closed if door == 1, door is open)
+
 2. Current floor number (display the current floor using a 7-segment display).
+
 3. Moving (display that the elevator is moving)
 
 The operation of the elevator is as follows:
