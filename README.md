@@ -14,6 +14,7 @@ The FSM has three outputs:
 3. Moving (display that the elevator is moving)
 
 The operation of the elevator is as follows:
+
 ** The elevator must begin in an idle state (on one of the two valid floors) with the door
 closed.
 
